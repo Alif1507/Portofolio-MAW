@@ -1,0 +1,45 @@
+.page4 {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+
+}
+
+.header-page4 {
+  height: 214px;
+  margin-top: -1px;
+}
+
+.wave4 {
+width: 1520px;
+}
+
+.qoute1 {
+  height: 250px;
+  width: 250px;
+  margin-left: 50px;
+}
+
+.div-dream {
+  justify-self: center;
+  align-self: center;
+}
+
+.DREAM {
+  font-size: 70px;
+  font-family: var(--apple-font);
+  color:#2C3E50;
+}
+
+.qoute2 {
+  height: 250px;
+  width: 250px;
+  margin-left: 1200px;
+  transform: rotate(180deg);
+}
+
+.paling-bawah {
+  width: 1580px;
+  position: relative;
+  left: -30px;
+}

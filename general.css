@@ -1,0 +1,111 @@
+@media (max-width: 435px) {
+  .foto {
+    width: 350px;
+    height: 350px;
+    margin-right: 39%;
+  }
+
+  .p1 {
+    color: #F7F7F7;
+  }
+
+  .p2 {
+    color: #F7F7F7;
+  }
+
+  .p3 {
+    color: #F7F7F7;
+  }
+
+  .p4 {
+    color: #F7F7F7;
+  }
+
+  .p5 {
+    color: #F7F7F7;
+  }
+
+  .page2 {
+    display: flex;
+    flex-direction: column;
+    width: 436px;
+  }
+
+  .PH {
+    font-size: 30px;
+  }
+
+  .page2-p1 {
+    font-size: 13px;
+    margin-left: 65px;
+  }
+
+  .mockup_1 {
+    width: 480px;
+    position: absolute;
+    left: -17%;
+    top: 12%;
+   }
+
+   .link-ig {
+    position: absolute;
+    left: -17%;
+    top: 40%;
+    font-size: 20px;
+    padding-right: 120px;
+    padding-left: 120px;
+    padding-top:  20px; ;
+    padding-bottom:  20px; ;
+   }
+
+   .link-ig:hover {
+    background-color: #E74C3C ;
+    border: none;
+  }
+
+  .page3 {
+    display: flex;
+    flex-direction: column;
+    width: 436px;
+  }
+
+  .h1-page3 {
+    font-size: 30px;
+    position: absolute;
+    top: 240%;
+    left: 10%;
+  }
+
+  .p-page3 {
+    font-size: 30px;
+    position: absolute;
+    top: 250%;
+    left: 10%;
+    font-size: 13px;
+    width: 300px;
+    text-align: left;
+  }
+
+  .mockup_2 {
+    width: 550px;
+    position: absolute;
+    left: -17%;
+  }
+
+  .link-ig-page3 {
+    position: absolute;
+    left: 5%;
+    top: 315%;
+    font-size: 20px;
+    padding-right: 130px;
+    padding-left: 130px;
+    padding-top:  30px; ;
+    padding-bottom:  30px; ;
+  }
+
+  .qoute2 {
+    margin-left: 0;
+  }
+
+
+}
